@@ -7,7 +7,7 @@ SUMMARY:
 - `react-native@0.59.4`
 - `nodejs-mobile-react-native@0.4.0`
 - `leveldown@4.0.1` in the nodejs-project
-- Device: Nexus 5 (`armv7l` Android 6.0.1)
+- Device: Nexus 5 (`armv7l` Android 6.0.1, other devices seem to have no issues, or different issues)
 - Crash: `Error: dlopen failed: cannot locate symbol "__aeabi_memcpy"`
 
 ## Two projects
